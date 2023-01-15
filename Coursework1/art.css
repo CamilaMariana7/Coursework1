@@ -1,0 +1,48 @@
+body {
+  background-color: #F7F0F1;
+  color:black;
+}
+.nav {
+  width: 600px;
+  position:absolute;
+  display: inline;
+  top: 0;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black
+}
+.nav a {
+  text-decoration: none;
+}
+h1 {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 3em;
+  text-align:center;
+}
+h3 {
+  text-align: center;
+}
+th {
+  padding-left: 100px;
+  text-align: left;
+}
+.nav a:hover {
+  color: #C20E0E;
+  text-decoration: none;
+}
+.nav a {
+  font-size: 20px;
+}
+p {
+  text-align: center;
+  font-size: 1.2em;
+}
+figcaption {
+  font-size: 1.2em;
+}
+table {
+  font-size: 1.2em;
+  text-align: center;
+}

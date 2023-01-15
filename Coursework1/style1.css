@@ -1,0 +1,36 @@
+body {
+  background-color: #F7F0F1;
+  color:black;
+}
+.nav {
+  width: 600px;
+  position:absolute;
+  display: inline;
+  top: 0;
+  font-family: "Montserrat", sans-serif;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: black
+}
+.nav a {
+  text-decoration: none;
+}
+h2 {
+  color: black;
+  font-family: "Montserrat", sans-serif;
+  font-size: 2em;
+}
+th {
+  padding-left: 100px;
+  text-align: left;
+}
+.nav a:hover {
+  color: #C20E0E;
+  text-decoration: none;
+}
+.nav a {
+  font-size: 20px;
+}
+img {
+  border-radius: 50%;
+}
